@@ -1,0 +1,7 @@
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\obj\Debug\sousTitreBodjeShadrack.csprojAssemblyReference.cache
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\obj\Debug\sousTitreBodjeShadrack.csproj.CoreCompileInputs.cache
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\bin\Debug\sousTitreBodjeShadrack.exe.config
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\bin\Debug\sousTitreBodjeShadrack.exe
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\bin\Debug\sousTitreBodjeShadrack.pdb
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\obj\Debug\sousTitreBodjeShadrack.exe
+C:\Users\bodje\Desktop\sousTitreBodjeShadrack\sousTitreBodjeShadrack\sousTitreBodjeShadrack\obj\Debug\sousTitreBodjeShadrack.pdb
